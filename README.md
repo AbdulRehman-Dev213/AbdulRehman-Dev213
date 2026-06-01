@@ -32,4 +32,5 @@ In the future, I aim to expand my skills into the following areas aswell:
 ---
 
 **Conclusion**
+
 Thanks for visiting my profile. Consider following me — more interesting projects coming soon. Stay tuned as I continue learning, building, and growing.
