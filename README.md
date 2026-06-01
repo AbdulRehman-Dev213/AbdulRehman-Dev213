@@ -20,8 +20,9 @@ I'm an aspiring Full-Stack Developer from Pakistan, currently building my founda
 * Modern development tools and frameworks  
 
 ---
+In the future, I aim to expand my skills into the following areas aswell:
 
-**AI, LLMs, Bots, Automation & Agents**
+**AI, LLMs, Automation & Agents**
 * AI chatbots  
 * Large Language Models (LLMs)  
 * AI agents  
